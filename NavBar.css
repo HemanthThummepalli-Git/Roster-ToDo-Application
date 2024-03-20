@@ -1,0 +1,12 @@
+.active{
+    color:rgb(0, 0, 0) !important;
+    /* background: linear-gradient(to right,#ff5722,#ff9800); */
+    background:  rgb(223, 160, 0);
+    padding:7px 10px;
+    border-radius: 5px;
+    
+}
+
+.nav-item{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
